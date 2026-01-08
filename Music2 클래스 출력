@@ -1,0 +1,15 @@
+package javastudy260108;
+
+public class Music2 {
+	
+	public static void main(String[] args) {
+		
+		Music music = new Music("BOYNEXTDOOR","Earth, Wind & Fire",180);
+		
+		System.out.println(music.sing);
+		System.out.println(music.singer);
+		System.out.println(music.playingTime);
+		
+	}
+
+}
