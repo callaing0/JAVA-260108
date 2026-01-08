@@ -1,0 +1,15 @@
+package javastudy260108;
+
+public class Music {
+	
+	String sing;
+	String singer;
+	int playingTime;
+	
+	Music(String sing, String singer, int playingTime){
+		this.sing = sing;
+		this.singer = singer;
+		this.playingTime = playingTime;
+	}
+	
+}
