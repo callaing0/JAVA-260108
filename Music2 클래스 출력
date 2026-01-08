@@ -10,6 +10,8 @@ public class Music2 {
 		System.out.println(music.singer);
 		System.out.println(music.playingTime);
 		
+		Music music2 = new Music();
+		
 	}
 
 }
