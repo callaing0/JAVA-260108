@@ -6,6 +6,10 @@ public class Music {
 	String singer;
 	int playingTime;
 	
+	Music(){
+		
+	}
+	
 	Music(String sing, String singer, int playingTime){
 		this.sing = sing;
 		this.singer = singer;
